@@ -44,8 +44,7 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![img](ai1.ipg)
-
+![img](ai1.jpg)
 ### 2-Norm of a Matrix
 ![img](ai2.jpg)
 
